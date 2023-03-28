@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leopedro
 - 👀 I’m interested in Python and Ethical Hacking.
-- 🌱 I’m currently learning Ethical Hacking.
+- 🌱 I’m currently an Ethical Hacking.
 - 💞️ I’m looking to collaborate on Penetration Testing and Bug bounty.
 - 📫 How to reach me ...
 
